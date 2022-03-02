@@ -6,7 +6,7 @@ from PIL import Image
 from discord.ext import commands
 from discord.ext.commands.cooldowns import BucketType
 
-TOKEN = "OTQ1MDU2MDMxODk2MTQxODc0.YhKmBA.aFT8x8ZSpQoZO3tmOyp97X295cY"
+TOKEN = ""
 
 client = discord.Client()
 client = commands.Bot(command_prefix = ['gpu ','Gpu'])
